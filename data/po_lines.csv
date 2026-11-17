@@ -1,0 +1,14 @@
+po_number,line_no,description,quantity,unit_price
+PO-4499,1,A4 copy paper (case of 10 reams),30,41.00
+PO-4501,1,A4 copy paper (case of 10 reams),40,42.50
+PO-4501,2,HP 58A toner cartridge,12,89.00
+PO-4501,3,Ergonomic mesh office chair,4,289.00
+PO-4502,1,Freight & logistics services,1,40000.00
+PO-4503,1,Managed cloud hosting - annual plan,1,18000.00
+PO-4504,1,HVAC preventive maintenance,1,2400.00
+PO-4504,2,Deep cleaning - office floors,4,350.00
+PO-4506,1,Dell Latitude 5450 laptop,10,1250.00
+PO-4507,1,HVAC preventive maintenance,1,2400.00
+PO-4507,2,Deep cleaning - office floors,4,350.00
+PO-4507,3,Window cleaning - exterior,1,450.00
+PO-4508,1,Leadership offsite catering (2 days),1,2600.00

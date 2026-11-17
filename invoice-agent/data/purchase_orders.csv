@@ -1,9 +1,0 @@
-po_number,vendor_id,description,issue_date,currency,tax_rate,status,allow_partial,requester
-PO-4499,V001,Office supplies Q3,2026-07-01,USD,0.085,closed,no,Priya Nair (Ops)
-PO-4501,V001,Office supplies Q4,2026-10-05,USD,0.085,open,no,Priya Nair (Ops)
-PO-4502,V002,Freight & logistics services Oct-Dec 2026,2026-09-28,USD,0,open,yes,Daniel Okafor (Supply Chain)
-PO-4503,V003,Managed cloud hosting - annual renewal,2026-10-12,USD,0,open,no,Mei Lin (IT)
-PO-4504,V004,Facilities maintenance - November 2026,2026-10-30,USD,0,open,no,Rahul Mehta (Facilities)
-PO-4506,V006,Laptops for new hires,2026-10-20,USD,0.085,open,no,Mei Lin (IT)
-PO-4507,V004,Facilities maintenance - December 2026,2026-11-10,USD,0,open,no,Rahul Mehta (Facilities)
-PO-4508,V005,Catering for leadership offsite,2026-10-15,USD,0.085,open,no,Sarah Kim (People)

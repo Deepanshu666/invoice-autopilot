@@ -1,7 +1,0 @@
-vendor_id,name,aliases,tax_id,bank_name,bank_account,routing_number,status,status_reason,payment_terms,email,phone
-V001,Acme Office Supplies Inc.,Acme Office Supplies|Acme Office,94-3127781,First National Bank,402188341902,121000358,active,,Net 30,billing@acmeoffice.example,+1 415 555 0142
-V002,BrightPath Logistics LLC,BrightPath Logistics|Bright Path Logistics,27-4410938,Pacific Commerce Bank,7730019245,122000661,active,,Net 45,ar@brightpath.example,+1 510 555 0199
-V003,Cobalt Cloud Services Inc.,Cobalt Cloud|Cobalt Cloud Services,46-2201775,Silicon Valley Trust,5512094470,121140399,active,,Net 30,finance@cobaltcloud.example,+1 650 555 0110
-V004,Delta Facilities Management Co.,Delta Facilities|Delta Facilities Management,82-1190346,Bay Area Credit Union,3309871122,321180379,active,,Net 30,accounts@deltafm.example,+1 408 555 0187
-V005,Evergreen Catering Co.,Evergreen Catering,61-7781203,Golden Gate Bank,8812003341,121042882,blocked,Failed annual compliance review (Sep 2026),Net 15,hello@evergreencatering.example,+1 415 555 0133
-V006,Fulcrum IT Hardware Ltd,Fulcrum IT|Fulcrum IT Hardware,33-9021457,Western Business Bank,6644310987,121137522,active,,Net 30,invoices@fulcrumit.example,+1 925 555 0164

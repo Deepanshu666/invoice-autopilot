@@ -33,7 +33,7 @@ STAGES = [
 
 
 def fmt(x: float | None) -> str:
-    return "—" if x is None else f"${x:,.2f}"
+    return "—" if x is None else (f"-${abs(x):,.2f}" if x < -0.004 else f"${x:,.2f}")
 
 
 def mask(acct: str | None) -> str:
